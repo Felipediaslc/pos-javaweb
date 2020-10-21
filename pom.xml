@@ -18,6 +18,12 @@
     <description>Projeto da disciplina de programação avançada para web</description>
 
     <properties>
+        <sonar.projectKey>projetosonarqube</sonar.projectKey>
+        <sonar.host.url>http://ip172-18-0-35-bu8aoc1qckh0008rq95g-9000.direct.labs.play-with-docker.com</sonar.host.url>
+        <sonar.login>8f88b13a8f7804b2221c623cdfc1ada132799bfa</sonar.login>	
+        <sonar.language>java</sonar.language>	
+        <sonar.sources>src/main/java</sonar.sources>
+        <sonar.java.binaries>target/classes</sonar.java.binaries>
         <java.version>11</java.version>
         <junit.version>5.5.1</junit.version>
         <io.springfox.version>2.9.2</io.springfox.version>
