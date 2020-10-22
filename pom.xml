@@ -18,9 +18,9 @@
     <description>Projeto da disciplina de programação avançada para web</description>
 
     <properties>
-        <sonar.projectKey>projetosonarqube</sonar.projectKey>
-        <sonar.host.url>http://ip172-18-0-35-bu8aoc1qckh0008rq95g-9000.direct.labs.play-with-docker.com</sonar.host.url>
-        <sonar.login>0d41ea8f68ecea1cdb79ccd03504407d0d03888d</sonar.login>	
+        <sonar.projectKey>sonarqube</sonar.projectKey>
+        <sonar.host.url>http://ip172-18-0-26-bu8aoc1qckh0008rq95g-9000.direct.labs.play-with-docker.com</sonar.host.url>
+        <sonar.login>b160c70f62c7bd39a4bb5219695419fd813bcb92</sonar.login>	
         <sonar.language>java</sonar.language>	
         <sonar.sources>src/main/java</sonar.sources>
         <sonar.java.binaries>target/classes</sonar.java.binaries>
